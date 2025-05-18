@@ -25,4 +25,9 @@ A anime theme made for KWGT
   - Though widget uses tabler icon
 
 ## Footnote 
-Coming soon
+This KWGT widget theme is made for anime enthusiast in particular.   
+The date in the main widget can be clicked to open calendar,the weather can be clicked to open OpenWeatherMap,and The resource monitor can be clicked to open up cleaner (i use oem cleaner in this case,change to yours!). There's little dot in the image which can be clicked to open editor.   
+The Secondary widget had 2 features, calendar event info,and app folders. The calendar info can be clicked to open up the displayed info of the event in the calendar app. While the app folders,each text of app name can be opened (note that you may need to change it manually).
+
+### Credits
+All rights reserved to respective authors. I am here just creating setups, i had no accosiation with any of the image author and purely used for demo,and the rest is licensed assets.
